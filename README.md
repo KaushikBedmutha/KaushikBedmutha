@@ -17,7 +17,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br><br>
 
-- 🔭 I’m currently working on [NFL Big Data Bowl 2024](https://github.com/Collaborators-Hub/NFL-Big-Data-Bowl-2024)
+- 🔭 I’m currently working on [NFL Big Data Bowl 2025](https://github.com/Collaborators-Hub/NFL-Big-Data-Bowl-2025)
 - 🌱 I’m currently learning **Statistics**
 - 👨‍💻 All of my projects are available at [my portfolio](https://kaushikbedmutha.github.io/portfolio/)
 - 📝 I regularly write articles on [Medium](https://medium.com/@kaushik23bedmutha)
