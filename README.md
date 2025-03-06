@@ -18,10 +18,9 @@
 <br><br>
 
 - 🔭 I’m currently working on [NFL Big Data Bowl 2025](https://github.com/Collaborators-Hub/NFL-Big-Data-Bowl-2025)
-- 🌱 I’m currently learning **Statistics**
+- 🌱 I’m currently learning **Data Science**
 - 👨‍💻 All of my projects are available at [my portfolio](https://kaushikbedmutha.github.io/portfolio/)
 - 📝 I regularly write articles on [Medium](https://medium.com/@kaushik23bedmutha)
-- 💬 Ask me about **Data Science and Machine Learning**
 - 📫 How to reach me: **kaushik23bedmutha@gmail.com**
 - 📄 Know about my experiences: [Kaushik's Resume](https://kaushikbedmutha.github.io/portfolio/Kaushik_Resume.pdf)
 - ⚡ Fun fact: **Data tells stories, and I'm the storyteller!**
